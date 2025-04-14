@@ -11,15 +11,14 @@ It includes:
 
 ## Dataset
 
-We simulate a graph with 20 nodes and randomly generated edge weights and connections. Each edge weight represents the "cost" of connecting two nodes (e.g., laying down cables between cities or routers).
+I simulated a graph with 20 nodes and randomly generated edge weights and connections. Each edge weight represents the "cost" of connecting two nodes (e.g., laying down cables between cities or routers).
 
 ## Files
 
-- `prims_manual.py`: Implements Prim's algorithm without using any graph libraries.
-- `prims_networkx.py`: Uses NetworkX to run Prim's algorithm and visualize the MST.
+- `PrimCode.py`: Implements Prim's algorithm without using any graph libraries.
+- `PrimCode2.py`: Uses NetworkX to run Prim's algorithm and visualize the MST.
 - `README.md`: You're reading it!
 
 ## Requirements
 
-```bash
 pip install networkx matplotlib
