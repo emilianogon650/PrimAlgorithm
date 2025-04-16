@@ -17,8 +17,4 @@ I simulated a graph with 20 nodes and randomly generated edge weights and connec
 
 - `PrimCode.py`: Implements Prim's algorithm without using any graph libraries.
 - `PrimCode2.py`: Uses NetworkX to run Prim's algorithm and visualize the MST.
-- `README.md`: Explanation for project!
-
-## Requirements
-
-pip install networkx matplotlib
+- `README.md`: Explanation for project.
